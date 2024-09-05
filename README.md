@@ -1,2 +1,2 @@
 # CPP
- This respository contain tha DSA in C++.
+ This respository contain the DSA in C++.
